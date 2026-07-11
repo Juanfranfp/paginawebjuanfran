@@ -126,6 +126,18 @@ h1, h2, h3 {
     text-transform: uppercase;
 }
 
+.badge.alta {
+    background-color: #e74c3c;
+}
+
+.badge.media {
+    background-color: #f39c12;
+}
+
+.badge.baja {
+    background-color: #27ae60;
+}
+
 /* Grillas (Galería y Fauna) */
 .galeria-grid {
     display: flex;
